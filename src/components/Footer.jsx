@@ -12,9 +12,8 @@ export default function Footer() {
         <div>
           <h3 className="font-semibold text-gray-800">Kundeservice</h3>
           <ul className="space-y-1">
-            <li>E-post: hatmontcg@gmail.com</li>
+            <li>E-post: hatamontcg@gmail.com</li>
             <li>Org.nr: 935 945 909</li>
-            <li>Frakt fra 69 kr</li>
           </ul>
         </div>
         <div>
